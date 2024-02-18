@@ -10,7 +10,7 @@
     OutputOfNumbers(m+1, n);
 }
 
-int m = 10;
-int n = 20;
+int m = 4;
+int n = 8;
 
 OutputOfNumbers(m, n);

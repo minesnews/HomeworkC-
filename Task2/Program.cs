@@ -7,7 +7,7 @@
 }
 
 int m = 3;
-int n = 5;
+int n = 2;
 int result = FunctionAckerman(m, n);
 System.Console.WriteLine(result);
 
